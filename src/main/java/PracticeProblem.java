@@ -1,3 +1,14 @@
+/**
+
+        * File: Lesson 5.3 Add/remove
+
+        * Author: Mansoor Muhammad
+
+        * Date Created: May 1, 2026
+
+        * Date Last Modified: May 8, 2026
+
+        */
 public class PracticeProblem {
 
     public static void main(String args[]) {
